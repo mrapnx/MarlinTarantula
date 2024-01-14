@@ -1,11 +1,8 @@
 
-# Notice!
+Adaption for my personal Tevo Tarantula printer, based upon Jim Browns EasyConfig.
 
-My Tevo Tarantula has died and I am replacing it with a Prusa Mk3S+. Consequently,
-I am no longer maintaining or updating this repository. I will leave it in place should
-anyone wish to fork it (I know a few people have already) and do their own thing with it.
 
-Y'all have fun now!
+The following content is original content from the repo where this repo is forked from:
 
 ============================================================================
 
